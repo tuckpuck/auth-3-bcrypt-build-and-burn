@@ -2,7 +2,7 @@
 ##Build and burn exercise
 
 ### Instructions
-Edit the solution.js file and implement the functions so all the tests pass.
+Edit the solution.js file and implement all the functions so all the tests pass.
 
 ### Getting started.
 - Fork and clone this repo
