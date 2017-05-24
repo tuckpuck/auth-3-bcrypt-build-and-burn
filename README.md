@@ -1,2 +1,12 @@
-# auth-3-bcrypt-build-and-burn
-A build and burn exercise for bcrypt ... with tests.
+#Authentication - Part 3 - ****crypt
+##Build and burn exercise
+
+### Instructions
+Edit the solution.js file and implement the functions so all the tests pass.
+
+### Getting started.
+- Fork and clone this repo
+- Type `npm init` at the command line to install the dependencies.
+
+### Running tests
+- Type `npm test` to run the tests.
