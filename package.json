@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/ghost-/auth-3-bcrypt-build-and-burn#readme",
   "dependencies": {
-    "bcrypt": "^1.0.2",
+    "bcrypt": "^5.1.1",
     "chai": "^3.5.0",
     "mocha": "^3.4.1"
   },
